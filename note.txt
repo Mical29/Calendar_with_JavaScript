@@ -1,0 +1,6 @@
+/* Important Notes */
+
+1. Don't forget to write comments
+2. Make sure to check bugs and errors before you push the code
+3. Have a clear outline for errors and bugs that you fixed
+4. Add important notes here 
